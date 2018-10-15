@@ -18,4 +18,4 @@
 2. Don't sit.
 3. Be prepared.
 4. Listen to your colleagues.
-5. @size[3.5em](Participate & Challenge.)
+5. @size[1.5em](Participate & Challenge.)
