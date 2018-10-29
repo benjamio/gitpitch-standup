@@ -6,9 +6,10 @@
 
 ### Agenda
 
-1. What did you do yesterday?
-2. What will you do today?
-3. Are there any impediments in your way?
+1. Things I have done since yesterday's meeting.
+2. Things I am going to get done today.
+3. Obstacles that I need someone to remove.
+
 
 ---
 
@@ -19,3 +20,15 @@
 3. Be prepared.
 4. Listen to your colleagues.
 5. @size[1.5em](Participate & Challenge.)
+
+---
+
+### Tools
+* Jell
+* http://agilepokerclock.com/
+
+---
+
+### Reference
+
+* https://martinfowler.com/articles/itsNotJustStandingUp.html
